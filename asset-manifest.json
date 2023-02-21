@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SegundaPreEntrega_SempriniCarolina/static/css/main.6a00bb72.css",
-    "main.js": "/SegundaPreEntrega_SempriniCarolina/static/js/main.02112b65.js",
-    "static/js/787.dcc73137.chunk.js": "/SegundaPreEntrega_SempriniCarolina/static/js/787.dcc73137.chunk.js",
-    "static/media/VIÑEDOS.png": "/SegundaPreEntrega_SempriniCarolina/static/media/VIÑEDOS.586a8f4405e5bb5ad05f.png",
-    "index.html": "/SegundaPreEntrega_SempriniCarolina/index.html",
-    "main.6a00bb72.css.map": "/SegundaPreEntrega_SempriniCarolina/static/css/main.6a00bb72.css.map",
-    "main.02112b65.js.map": "/SegundaPreEntrega_SempriniCarolina/static/js/main.02112b65.js.map",
-    "787.dcc73137.chunk.js.map": "/SegundaPreEntrega_SempriniCarolina/static/js/787.dcc73137.chunk.js.map"
+    "main.css": "/ecommerce/static/css/main.6a00bb72.css",
+    "main.js": "/ecommerce/static/js/main.5ee7cf70.js",
+    "static/js/787.dcc73137.chunk.js": "/ecommerce/static/js/787.dcc73137.chunk.js",
+    "static/media/VIÑEDOS.png": "/ecommerce/static/media/VIÑEDOS.586a8f4405e5bb5ad05f.png",
+    "index.html": "/ecommerce/index.html",
+    "main.6a00bb72.css.map": "/ecommerce/static/css/main.6a00bb72.css.map",
+    "main.5ee7cf70.js.map": "/ecommerce/static/js/main.5ee7cf70.js.map",
+    "787.dcc73137.chunk.js.map": "/ecommerce/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a00bb72.css",
-    "static/js/main.02112b65.js"
+    "static/js/main.5ee7cf70.js"
   ]
 }
